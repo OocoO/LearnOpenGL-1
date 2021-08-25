@@ -1,5 +1,6 @@
 # ignores following folders
 bin/
+.vscode/
 
 [Bb]uild/
 *.dSYM/
